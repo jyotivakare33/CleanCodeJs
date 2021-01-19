@@ -1,0 +1,62 @@
+{
+    "Expected style in casing for Javascript": [
+        {
+            "answer": "hyphens",
+            "correct": false
+        },
+        {
+            "answer": "camelCase",
+            "correct": true
+        },
+        {
+            "answer": "Snake case",
+            "correct": false
+        },
+        {
+            "answer": "Pascal case",
+            "correct": false
+        }
+    ],
+    "Strings in Js should be enclosed in": [
+        {
+            "answer": "Single quotes",
+            "correct": true
+        },
+        {
+            "answer": "Double quotes",
+            "correct": false
+        },
+        {
+            "answer": "Both",
+            "correct": false
+        }
+    ],
+    "DO NOT break a loooooooooooong string. Is the statement True or False": [
+        {
+            "answer": "True",
+            "correct": true
+        },
+        {
+            "answer": "False",
+            "correct": false
+        }
+    ],
+    "Deafult parameters in the funtions should be placed at:": [
+        {
+            "answer": "Last",
+            "correct": true
+        },
+        {
+            "answer": "First",
+            "correct": false
+        },
+        {
+            "answer": "Middle",
+            "correct": false
+        },{
+            "answer": "Anywhere",
+            "correct": false
+
+        }
+    ]
+}
